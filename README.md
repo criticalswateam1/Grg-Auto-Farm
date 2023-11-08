@@ -1,7 +1,7 @@
 # Grg-Auto-Farm
 This is an auto farm for the game Grg(Generic Roleplay Gaem).
 
-##How to use??
+## How to use??
 Well, it's really simple! So when you execute the application it will look something like this:
 ```
 Made by _Sleepy
