@@ -25,10 +25,10 @@ Well, it works by manipulating the [pynput](https://github.com/SleepyHeres/Grg-A
 
 ## About Premium
 ### How much does Premium cost??
-It costs around 1$ per month.
+It costs around 2$ per month.
 
 ### How to use Premium???
-Well, as of right now (Nov 2023) this is just the first version so there isn't Premium yet.
+You will get the use the premium installer(the latest release on this page) then enter the token that you will get by purchasing [this](https://www.buymeacoffee.com/eabe/e/182157) and entering your email.
 
 ## What is pynput???
 ```
