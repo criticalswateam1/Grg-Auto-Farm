@@ -21,7 +21,7 @@ Please note that this is just recently developed and is not optimized for the be
 For early access to next version/patch, you can buy Premium to access new features and patch that is going to be in the next version.
 
 ## How does it work?
-Well, it works by manipulating the [pynput](https://github.com/SleepyHeres/Grg-Auto-Farm/blob/main/README.md#what-is-pynput) module to act like a keyboard, then follow through a preprogrammed path to the council. After that it will stand in the spot that you can just vote but can't actually get kicked from the council.
+Well, it works by manipulating the [pynput](https://github.com/SleepyHeres/Grg-Auto-Farm#what-is-pynput) module to act like a keyboard, then follow through a preprogrammed path to the council. After that it will stand in the spot that you can just vote but can't actually get kicked from the council.
 
 ## About Premium
 ### How much does Premium cost??
