@@ -4,15 +4,35 @@ This is the official version of Generic Roleplay Autofarm. This tool is designed
 
 ## Installation
 
+### Source Code
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 
-## Usage
+### Normal Usage
+1. Download the exe.
+2. Run.
+3. Enjoy!
+
+### Premium Usage
+1. Download the installer.
+2. Set up the options.
+3. Launch from the shortcut.
+4. Enjoy!
+
+## Usage(Source Code)
 
 1. Run the script by typing `python main.py` in your terminal.
 2. When prompted, enter your private server link.
 3. The script will then initiate a connection to the Roblox servers.
 4. Please refrain from any interaction unless you intend to halt the bot. The bot is in the process of launching Roblox and handling all operations.
+
+## Premium
+
+### What is premium?
+It's used to access premium-only features and early access to new versions.
+
+### How to buy it?
+You can buy it [here](https://www.buymeacoffee.com/eabe/e/182157)
 
 ## Troubleshooting
 
